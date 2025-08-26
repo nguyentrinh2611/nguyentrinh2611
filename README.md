@@ -5,9 +5,9 @@
 - 📫 How to reach me: [Facebook](https://www.facebook.com/nguyen.trinh.537722/)
 
 ### 📊 Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juncook&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyentrinh&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juncook&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentrinh&layout=compact&theme=radical)
 
 ### 🧰 Skills
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
