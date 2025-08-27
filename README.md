@@ -15,9 +15,6 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
 
-### ⏱ Weekly development breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 <!--  
